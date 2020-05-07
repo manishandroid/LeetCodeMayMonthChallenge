@@ -13,6 +13,8 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **6 May 2020 : Day 6 :** [Majority Element](/src/week1/MajorityElement.kt)
 
+**7 May 2020 : Day 7 :** [Cousins In Binary Tree](/src/week1/CousinsInBinaryTree.kt)
+
 
 
 
