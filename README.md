@@ -1,5 +1,5 @@
-# LeetCode May Month Challenge
-Solution of  all  31 day challenges of May month in Kotlin
+# LeetCode May Month Challenge [April Month Challenges](https://github.com/manishandroid/LeetCode30DaysAprilChallenge)
+Solution of  all  31 day challenges of May month in Kotlin 
 
 **1 May 2020 : Day 1 :** [First Bad Version](/src/week1/FirstBadVersion.kt)
 
