@@ -15,7 +15,9 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **7 May 2020 : Day 7 :** [Cousins In Binary Tree](/src/week1/CousinsInBinaryTree.kt)
 
-**8 May 2020 : Day 8 :** [Check If It Is a Straight Line](/src/week1/CheckIfItStraightLine.kt)
+**8 May 2020 : Day 8 :** [Check If It Is a Straight Line](/src/week2/CheckIfItStraightLine.kt)
+
+**9 May 2020 : Day 9 :** [Valid Perfect Square](/src/week2/PerfectSquare.kt)
 
 
 
