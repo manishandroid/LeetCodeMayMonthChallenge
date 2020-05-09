@@ -31,8 +31,12 @@ fun isPerfectSquare(num: Int): Boolean {
     var right = num
     while (left <= right) {
         val mid = right - (right - left) / 2
-        if (num % mid == 0 && mid == num / mid) return true else if (mid < num / mid) left = mid + 1 else right =
-            mid - 1
+        if (num % mid == 0 && mid == num / mid)
+            return true
+        else if (mid < num / mid)
+            left = mid + 1
+        else
+            right = mid - 1
     }
     return false
 }
