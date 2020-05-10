@@ -19,7 +19,7 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **9 May 2020 : Day 9 :** [Valid Perfect Square](/src/week2/PerfectSquare.kt)
 
-**10 May 2020 : Day 9 :** [Find The Town Judge](/src/week2/FindTheTownJudge.kt)
+**10 May 2020 : Day 10 :** [Find The Town Judge](/src/week2/FindTheTownJudge.kt)
 
 
 
