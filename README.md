@@ -23,6 +23,8 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **11 May 2020 : Day 11 :** [Flood Fill](/src/week2/FloodFill.kt)
 
+**12 May 2020 : Day 12 :** [Single Element In Sorted Array](/src/week2/SingleElementInSortedArray.kt)
+
 
 
 
