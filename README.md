@@ -25,6 +25,7 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **12 May 2020 : Day 12 :** [Single Element In Sorted Array](/src/week2/SingleElementInSortedArray.kt)
 
+**13 May 2020 : Day 13 :** [Remove K Digits](/src/week2/RemoveKDigits.kt)
 
 
 
