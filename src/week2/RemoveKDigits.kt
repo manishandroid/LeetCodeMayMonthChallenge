@@ -42,28 +42,34 @@ fun main()
 fun removeKdigits(num: String, k: Int): String? {
     var k = k
     val len = num.length
-    if (len == k) return "0"
+    if (len == k)
+        return "0"
     var counter = 0
     val stack = Stack<Char>()
-    while (counter < len) {
+    while (counter < len)
+    {
         val curDigit = num[counter]
-        while (!stack.isEmpty() && stack.peek() > curDigit && k > 0) {
+        while (!stack.isEmpty() && stack.peek() > curDigit && k > 0)
+        {
             stack.pop()
             --k
         }
         stack.push(curDigit)
         counter++
     }
-    while (k > 0) {
+    while (k > 0)
+    {
         stack.pop()
         --k
     }
     val stringBuilder = StringBuilder()
-    while (!stack.isEmpty()) {
+    while (!stack.isEmpty())
+    {
         stringBuilder.append(stack.pop())
     }
     stringBuilder.reverse()
-    while (stringBuilder.length > 1 && stringBuilder[0] == '0') {
+    while (stringBuilder.length > 1 && stringBuilder[0] == '0')
+    {
         stringBuilder.deleteCharAt(0)
     }
     return stringBuilder.toString()
