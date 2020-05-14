@@ -27,6 +27,7 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **13 May 2020 : Day 13 :** [Remove K Digits](/src/week2/RemoveKDigits.kt)
 
+**14 May 2020 : Day 14 :** [Implement Trie(Prefix Tree)](/src/week2/ImplementTriePrefixTree.kt)
 
 
 
