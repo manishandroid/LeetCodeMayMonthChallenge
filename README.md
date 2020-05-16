@@ -32,6 +32,7 @@ Solution of  all  31 day challenges of May month in Kotlin
 **15 May 2020 : Day 15 :** [Maximum Sum Circular Subarray
 ](/src/week3/MaximumSumCircularSubArray.kt)
 
+**16 May 2020 : Day 16 :** [Odd Even Linked List](/src/week3/OddEvenLinkedList.kt)
 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manishandroidexpert/) and Follow me on [Twitter](https://twitter.com/manishandroid)
