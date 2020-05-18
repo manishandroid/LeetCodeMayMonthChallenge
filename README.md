@@ -36,6 +36,8 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **17 May 2020 : Day 17 :** [Find All Anagrams In a String](/src/week3/FindAllAnagramsInString.kt)
 
+**18 May 2020 : Day 18 :** [Permutation In String](/src/week3/PermutationInString.kt)
+
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manishandroidexpert/) and Follow me on [Twitter](https://twitter.com/manishandroid)
 
