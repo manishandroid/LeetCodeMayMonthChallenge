@@ -40,6 +40,8 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **19 May 2020 : Day 19 :** [Online Stock Span](/src/week3/OnlineStockSpan.kt)
 
+**20 May 2020 : Day 20 :** [Smallest Element In BST](/src/week3/SmallestElementInBST.kt)
+
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manishandroidexpert/) and Follow me on [Twitter](https://twitter.com/manishandroid)
 
