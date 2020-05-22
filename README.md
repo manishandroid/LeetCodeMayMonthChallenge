@@ -42,6 +42,8 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **20 May 2020 : Day 20 :** [Smallest Element In BST](/src/week3/SmallestElementInBST.kt)
 
+**21 May 2020 : Day 21 :** [Count Square Submatrices with All Ones](/src/week3/SquareSubmatricesWithAllOnes.kt)
+
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manishandroidexpert/) and Follow me on [Twitter](https://twitter.com/manishandroid)
 
