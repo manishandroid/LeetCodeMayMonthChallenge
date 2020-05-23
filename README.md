@@ -44,6 +44,8 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **21 May 2020 : Day 21 :** [Count Square Submatrices with All Ones](/src/week3/SquareSubmatricesWithAllOnes.kt)
 
+**22 May 2020 : Day 22 :** [Sort Characters by Frequency](/src/week3/SortCharactersByFrequency.kt)
+
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manishandroidexpert/) and Follow me on [Twitter](https://twitter.com/manishandroid)
 
