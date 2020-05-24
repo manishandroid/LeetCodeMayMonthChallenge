@@ -48,6 +48,8 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **23 May 2020 : Day 23 :** [Interval List Intersections](src/week4/IntervalListIntersections.kt)
 
+**24 May 2020 : Day 24 :** [Construct Binary Search Tree From PreOrder Traversal](src/week4/ConstructBSTFromPreOrderTraversal.kt)
+
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manishandroidexpert/) and Follow me on [Twitter](https://twitter.com/manishandroid)
 
