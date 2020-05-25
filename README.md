@@ -50,6 +50,8 @@ Solution of  all  31 day challenges of May month in Kotlin
 
 **24 May 2020 : Day 24 :** [Construct Binary Search Tree From PreOrder Traversal](src/week4/ConstructBSTFromPreOrderTraversal.kt)
 
+**25 May 2020 : Day 25 :** [Uncrossed Lines](src/week4/UncrossedLines.kt)
+
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manishandroidexpert/) and Follow me on [Twitter](https://twitter.com/manishandroid)
 
